@@ -29,6 +29,7 @@ import java.util.Map;
  * Created by wm on 2016/2/23.
  */
 public class MainApplication extends Application {
+	
     public static Context context;
     //private RefWatcher refWatcher;
     private static int MAX_MEM = (int) Runtime.getRuntime().maxMemory() / 3;
